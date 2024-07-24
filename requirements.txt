@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+elasticsearch
+streamlit_condition_tree
+reportlab
+matplotlib
+plotly
